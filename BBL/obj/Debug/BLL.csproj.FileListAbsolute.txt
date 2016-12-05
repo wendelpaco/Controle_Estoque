@@ -1,0 +1,22 @@
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\DAL.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\Modelo.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\DAL.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\Modelo.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\Ferramentas.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\Ferramentas.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\BLL.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\bin\Debug\BLL.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\obj\Debug\BLL.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\BBL\obj\Debug\BLL.pdb
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\BLL.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\BLL.pdb
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\DAL.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\Ferramentas.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\Modelo.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\DAL.pdb
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\Ferramentas.pdb
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\bin\Debug\Modelo.pdb
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\obj\Debug\BLL.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\BBL\obj\Debug\BLL.pdb

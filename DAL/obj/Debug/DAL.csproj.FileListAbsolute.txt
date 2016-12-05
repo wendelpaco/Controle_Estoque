@@ -1,0 +1,16 @@
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\bin\Debug\DAL.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\bin\Debug\DAL.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\bin\Debug\Modelo.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\bin\Debug\Modelo.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\obj\Debug\DAL.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\DAL\obj\Debug\DAL.pdb
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\bin\Debug\DAL.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\bin\Debug\DAL.pdb
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\bin\Debug\Modelo.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\bin\Debug\Modelo.pdb
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\obj\Debug\DAL.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\obj\Debug\DAL.pdb
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\bin\Debug\Ferramentas.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\DAL\bin\Debug\Ferramentas.pdb

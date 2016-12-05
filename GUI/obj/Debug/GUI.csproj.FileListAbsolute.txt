@@ -1,0 +1,123 @@
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\bin\Debug\GUI.exe
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\bin\Debug\DAL.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\bin\Debug\Ferramentas.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\bin\Debug\Modelo.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\bin\Debug\DAL.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\bin\Debug\Ferramentas.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\bin\Debug\Modelo.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmBackupBancoDeDados.resources
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroCategoria.resources
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroProduto.resources
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroSubCategoria.resources
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastrounidadeDeMedida.resources
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConfiguracaoBancoDados.resources
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaCategoria.resources
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaProduto.resources
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaSubCategoria.resources
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaUnidadeDeMedida.resources
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmModeloDeFormularioDeCadastro.resources
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmPrincipal.resources
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\bin\Debug\GUI.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroTipoPagamento.resources
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaTipoPagamento.resources
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroCliente.resources
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaCliente.resources
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\bin\Debug\BLL.dll
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\bin\Debug\BLL.pdb
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroFornecedor.resources
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaFornecedor.resources
+C:\Users\Danilo\Documents\Visual Studio 2013\Projects\ControleDeEstoque\GUI\obj\Debug\GUI.frmSobre.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroCategoria.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroCliente.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroFornecedor.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroProduto.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroSubCategoria.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroTipoPagamento.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastrounidadeDeMedida.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmConfiguracaoBancoDados.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaCategoria.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaCliente.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaFornecedor.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaProduto.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaSubCategoria.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaTipoPagamento.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaUnidadeDeMedida.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmModeloDeFormularioDeCadastro.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmMovimentacaoCompra.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmPrincipal.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmSobre.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\GUI.exe.config
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\GUI.exe
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\GUI.pdb
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\BLL.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\DAL.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\Ferramentas.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\Microsoft.SqlServer.ForEachSMOEnumerator.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\Modelo.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\BLL.pdb
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\DAL.pdb
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\Ferramentas.pdb
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\Modelo.pdb
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.exe
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.pdb
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaCompra.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmLogin.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroUsuario.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaUsuario.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.exe.licenses
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\MaterialSkin.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmPrincipal2.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroCategoria2.resources
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\DevExpress.Data.v16.1.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\DevExpress.Utils.v16.1.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\DevExpress.Data.v16.1.xml
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\DevExpress.Utils.v16.1.xml
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Projetos\ControleDeEstoque - até a aula 74\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroSubCategoria2.resources
